@@ -1,0 +1,4 @@
+GraphicsWindow.Title = "Connect 4"
+GraphicsWindow.Width = 800
+GraphicsWindow.Height = 600
+GraphicsWindow.Show()
