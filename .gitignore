@@ -1,0 +1,4 @@
+# Microsoft Small Basic files.
+*.exe
+*.pdb
+SmallBasicLibrary.dll
